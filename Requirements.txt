@@ -1,0 +1,5 @@
+numpy
+og
+maplotlib
+torchvision
+cv2
